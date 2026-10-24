@@ -99,6 +99,7 @@
 
 ## 📁 Структура репозитория
 
+```
 eda_airline_satisfaction/
 ├── README.md
 ├── notebooks/
@@ -107,6 +108,7 @@ eda_airline_satisfaction/
 │ └── AirPassNew.csv 
 ├── images/ 
 └── requirements.txt
+```
 
 ## 📝 Статус
 
